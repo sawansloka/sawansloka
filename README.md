@@ -1,4 +1,4 @@
-Hi ! I am Sloka Sawan
+### Hi there 
 I'm a 2nd year Industrial Production Engineering Undergraduate at Dr. B R Ambedkar National Institute of Technology Jalandhar.
 My personal interest is doing sports programming for which my preferable language is C++.
 I also have the knowledge of DSA

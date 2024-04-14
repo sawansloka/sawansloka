@@ -1,5 +1,2 @@
 ### 👋 Hi there 
-I'm a Final year Industrial Production Engineering Undergraduate at Dr. B R Ambedkar National Institute of Technology Jalandhar.
-My personal interest is doing sports programming for which my preferable language is C++.I also have the knowledge of DSA.
-I develop websites. My proficient language is JavaScript. .
-I love to explore new technologies and develop solutions to problems and I seek for internships.
+I'm Sloka Sawan, a passionate problem-solver and technology enthusiast. As a Backend Developer at PhysicsWallah, I specialize in Node.js and Nest.js, with expertise in JavaScript and TypeScript. My skills extend to MongoDB and unit testing, Jenkins, dataDog, grafana, argoCD, ensuring robust applications. With a background in sports programming and proficiency in C++ for Data Structures and Algorithms, I offer a unique perspective to projects. I thrive in dynamic environments, constantly seeking opportunities to learn, grow, and contribute to impactful solutions.
